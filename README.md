@@ -55,3 +55,5 @@
 
 
 Задание №2.
+
+Ссылка на файл draw.io: https://disk.yandex.ru/d/QFvVvORrGo5ZLw
